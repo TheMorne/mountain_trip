@@ -1,4 +1,4 @@
-# cubit_understanding
+# mountain_trip
 
 A new Flutter project.
 
